@@ -10,9 +10,9 @@ Frontend done with HTML and CSS.
 
 Feel free to clone the repo and test out implementation using techniques
 
-```npm
+```
   npm install 
-'``
+```
 
 
 ## Usage
